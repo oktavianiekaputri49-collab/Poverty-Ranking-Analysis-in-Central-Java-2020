@@ -1,0 +1,89 @@
+📊 Poverty Ranking Analysis in Central Java 2020
+Project Description:
+This project presents a poverty ranking analysis of regencies and cities in Central Java in 2020 using data from Statistics Indonesia (BPS).
+The analysis was conducted to identify regions with the highest and lowest poverty rates and to understand the distribution of poverty levels across Central Java.
+The results are presented through tables and charts to provide a clear overview of poverty conditions and regional disparities.
+
+Project Objectives:
+Analyze poverty levels in Central Java in 2020.
+Compare poverty rates among regencies and cities.
+Identify regions with the highest and lowest poverty levels.
+Present findings through tables and visualizations.
+Develop data analysis skills using Microsoft Excel.
+
+Tools Used:
+Microsoft Excel
+Descriptive Statistics
+Data Visualization
+
+Dataset:
+Data Source
+Statistics Indonesia (BPS) – Central Java Province, 2020
+
+Variables Used
+Regency/City
+Poverty Rate (%)
+Regional Ranking
+Average Poverty Rate
+Highest Poverty Rate
+Lowest Poverty Rate
+
+Analysis Methodology
+The following methods were applied in this project:
+Data Sorting
+Ranking Analysis
+Mean Calculation
+Comparative Analysis
+Data Visualization
+Statistical Interpretation
+Data Processing Steps
+Collected poverty data from Statistics Indonesia (BPS).
+Imported and organized the data in Microsoft Excel.
+Sorted the data based on poverty rates.
+Ranked each regency and city.
+Calculated the average poverty rate.
+Identified the top 5 regions with the highest poverty rates.
+Identified the top 5 regions with the lowest poverty rates.
+Created charts and visualizations.
+Interpreted the findings and drew conclusions.
+
+Analysis Results:
+Top 5 Regions with the Highest Poverty Rates
+Rank	Regency/City	Poverty Rate (%)
+1	Kebumen	17.59
+2	Wonosobo	17.36
+3	Brebes	17.03
+4	Pemalang	16.02
+5	Purbalingga	15.90
+Top 5 Regions with the Lowest Poverty Rates
+Rank	Regency/City	Poverty Rate (%)
+31	Kudus	7.31
+32	Jepara	7.17
+32	Pekalongan City	7.17
+34	Salatiga City	4.94
+35	Semarang City	4.34
+Key Findings
+Kebumen Regency recorded the highest poverty rate in Central Java at 17.59%.
+Wonosobo and Brebes also experienced relatively high poverty rates.
+Semarang City had the lowest poverty rate at 4.34%.
+Salatiga City and Kudus Regency were among the regions with the lowest poverty levels.
+The average poverty rate in Central Java was 11.01%.
+Significant differences exist between regions with the highest and lowest poverty rates, indicating socioeconomic disparities across the province.
+
+Conclusion:
+The analysis shows that poverty levels in Central Java varied considerably across regencies and cities in 2020. Kebumen, Wonosobo, and Brebes were identified as the regions with the highest poverty rates, while Semarang City, Salatiga City, and Kudus Regency recorded the lowest rates.
+These findings highlight the importance of equitable economic development and targeted poverty alleviation programs to reduce regional disparities and improve social welfare throughout Central Java.
+
+Skills Gained:
+Data Analysis
+Descriptive Statistics
+Microsoft Excel
+Data Visualization
+Ranking Analysis
+Data Interpretation
+Socioeconomic Analysis
+
+Author:
+Oktaviani Eka Putri
+
+#DataAnalysis #Statistics #Excel #BPS #Poverty #CentralJava #DataAnalytics #PortfolioProject
